@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:background="@color/tema_principal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:onClick="sair"
+            android:background="@android:drawable/ic_input_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+        <TextView
+            android:textStyle="italic|bold"
+
+            android:id="@+id/comofaz"
+            android:textSize="25dp"
+            android:textColor="@color/cor_fonta_principal"
+            android:layout_margin="30dp"
+            android:layout_centerHorizontal="true"
+            android:text="Vesper Martini"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+
+
+            <RelativeLayout
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="50dp"
+                android:background="@color/pretomas_claro"
+                android:id="@+id/tela_igredientes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+
+                <TextView
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:textSize="20dp"
+                    android:textColor="@color/cor_fonta_principal"
+                    android:text="@string/ingredientes_vesper_martini"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_alignBottom="@id/tela_igredientes"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="50dp"
+                android:background="@color/pretomas_claro"
+                android:id="@+id/tela_como_fazer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+
+                <TextView
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:textSize="20dp"
+                    android:textColor="@color/cor_fonta_principal"
+                    android:text="PREPARO \n\n "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+
+                <TextView
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="50dp"
+                    android:textSize="18dp"
+                    android:textColor="@color/cor_fonta_principal"
+                    android:text="@string/fazer_coquitel_vesper_martini"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+
+
+            </RelativeLayout>
+
+
+
+
+
+            <TextView
+                android:textColor="@color/cor_fonta_principal"
+
+                android:text="fonte da receita"
+                android:layout_gravity="center_horizontal"
+                android:onClick="coquitel_vesper_martini"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+
+
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

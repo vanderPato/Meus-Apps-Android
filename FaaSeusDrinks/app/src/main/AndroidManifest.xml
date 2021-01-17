@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vanderlei.faaseusdrinks">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Coquitel_class_dirty_martini"></activity>
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <activity android:name=".SplasScreen">
+
+            <!-- <meta-data -->
+            <!-- android:name="com.google.android.gms.ads.APPLICATION_ID" -->
+            <!-- android:value="ca-app-pub-9660995303494537~4053325300"/> -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Coquitel_class_coquetel_Frozen_original" />
+        <activity android:name=".Coquiteis_sem_alcool_Class" />
+        <activity android:name=".Coquitel_class_coquetel_Moscow_mule" />
+        <activity android:name=".Coquitel_class_coquetel_pessego" />
+        <activity android:name=".Coquitel_class_coquetel_Cosmopolitan" />
+        <activity android:name=".Coquitel_class_coquetel_vesper_martine" />
+        <activity android:name=".Coquitel_class_coquetel_Espresso_martini" />
+        <activity android:name=".Coquitel_class_coquetel_Vodk_sorvete" />
+        <activity android:name=".Coquitel_class_coquetel_Vodk_melancia" />
+        <activity android:name=".Coquitel_class_coquetel_Vodk_mornago" />
+        <activity android:name=".Coquitel_class_coquetel_Veracruz" />
+        <activity android:name=".Coquiteis_Class" />
+        <activity android:name=".Caipirinha_de_goiaba" />
+        <activity android:name=".Caipirinha_de_melancia" />
+        <activity android:name=".Caipirinha_de_pessego" />
+        <activity android:name=".Caipirinha_de_uva" />
+        <activity android:name=".Caipirinha_de_abacaxi" />
+        <activity android:name=".Caipirinha_d_manga" />
+        <activity android:name=".Caipirinha_de_morango" />
+        <activity android:name=".Caipirinha_de_laranja" />
+        <activity android:name=".Caipirinha_de_lichia" />
+        <activity android:name=".Caipirinha_seriguela" />
+        <activity android:name=".Caipirinha_de_frutas_vermelhas" />
+        <activity android:name=".Faca_capipirinha_de_kiwi" />
+        <activity android:name=".Faca_capipirinha_de_maracuja" />
+        <activity android:name=".Faca_capipirinha_de_limao" />
+        <activity android:name=".Caipirinha_Class" />
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>

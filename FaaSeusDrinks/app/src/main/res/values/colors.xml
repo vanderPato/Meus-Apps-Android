@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="verde_limao">#856CE441</color>
+    <color name="verde_limao_claro">#AB373231</color>
+    <color name="preto">#F000</color>
+    <color name="pretomas_claro">#252424</color>
+    <color name="kiwi">#B8C553</color>
+    <color name="kiwi_mas_fraco">#9EC1CA7C</color>
+    <color name="seriguela">#E4B10F</color>
+    <color name="lichia">#A46560</color>
+    <color name="tema_principal">#171515</color>
+    <color name="cor_fonta_principal">#FFFFFF</color>
+    <color name="cor_laranja_escuro">#ED430D</color>
+    <color name="cor_laranja_claro">#FF5722</color>
+    <color name="cor_morango_escuro">#ED2128</color>
+    <color name="cor_morango_claro">#DA2525</color>
+    <color name="cor_manga_claro">#E3B326</color>
+    <color name="cor_manga_escuro">#FFC107</color>
+    <color name="cor_uva_escuro">#81048A</color>
+    <color name="cor_uva_claro">#C425CF</color>
+    <color name="cor_abacaxi_escuro">#E1C500</color>
+    <color name="cor_abacaxi_claro">#FFE959</color>
+    <color name="cor_goiaba_escuro">#BB5460</color>
+    <color name="cor_goiaba_claro">#CA8595</color>
+    <color name="splas_fundo">#2F2B2B</color>
+
+</resources>

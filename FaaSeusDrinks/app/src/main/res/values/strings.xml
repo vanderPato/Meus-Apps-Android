@@ -1,0 +1,82 @@
+<resources>
+    <string name="titulos"></string>
+    <string name="app_name">Faça Seus Drinks</string>
+    <string name="drinks">Drinks</string>
+    <string name="caipirinhas">Caipirinhas</string>
+    <string name="coquiteis">Coquiteis</string>
+    <string name="titulo">titulo</string>
+    <string name="descricao">descricao</string>
+    <string name="Caipirinha_de_limão">Caipirinha_de_limão</string>
+    <string name="como_fazer">Como fazer</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="ingredientes_imao">INGREDIENTES \n \n 60 ml de cachaça \n\n1 limão \n\n2 colheres (chá) de açucar(ou 3 cubos)</string>
+    <string name="ingredientes_maracuja">INGREDIENTES \n\n1 maracujá \n\n1 dose de vodka\n\n2 colheres de chá de açúcar Gelo picado</string>
+    <string name="fazer_maracuja">1 - Corte o maracujá ao meio, retire a polpa e as sementes.\n\n2 - Coloque na coqueteleira, acrescente o açúcar, a vodka e o gelo.\n\n3 - Agite bem.\n\n4 - Passe para um copo de caipirinha e sirva em seguida, sem coar.</string>
+    <string name="fazer_kiwi">1 - Descasque os kiwis e fatie em rodelas.\n\n2 - Com um pilão soque as rodelas, e acrescente o açúcar.\n\n3 - Em seguida, complete até a boca do copo com gelo.\n\n4 - Por último acrescente a pinga ou a vodka de forma que escorra pelos cubos gelados.\n\n5 - Mexa e sirva a seguir.</string>
+    <string name="ingrediente_frutas_vermelhas">INGREDIENTES\n\n¼ xícara (chá) de frutas vermelhas (pode ser morango, amora e/ou framboesa);\n\n50 Ml de cachaça (uma dose);\n\nCubos de gelo a gosto;\n\nAçúcar (opcional).</string>
+    <string name="ingredientes_kiwi">INGREDIENTES \n\n Vodka ou pinga quanto baste\n\n2 kiwis\n\nGelo a gosto\n\n2 1/2 colheres (sopa) de açúcar</string>
+    <string name="faze_frutas_vermelhas">1 - O preparo começa num copo baixo, mas feito com vidro grosso.\n\n2 - Coloque as frutas e o açúcar e utilize um socador para extrair todo o suco.\n\n3 - Acrescente a cachaça e o gelo.\n4 -  Está pronto para servir.</string>
+    <string name="feze_limao">1 - Corte o LIMÃO e, depois, em fatias meia-lua finas. \n\n2 - Esmague levemente as fatias de limão\ncom AÇUCAR em um copo baixo. \n(Esmagar demais deixa o drink amargo) \n\n3 - Encha o copo com gelo e coloque a cachaça. Misture e finalize com fatias de limão.</string>
+    <string name="fazer_seriguela">1 - Comece o pré-preparo mergulhando as seriguelas por cinco minutos em uma tigela com uma colher (chá) de vinagre.\n\n2 - Escorra a água e seque as frutas, então você pode preparar sua caipirinha em um copo de vidro baixo e grosso.\n\n3 - Acrescente oito seriguelas e o açúcar, utilizando um socador para macerar as frutas.\n\n4 - Agora coloque o gelo, o restante das seriguelas e a cachaça, mexendo muito bem a bebida com uma colher.\n\n5 - Sirva a seguir.</string>
+    <string name="ingredientes_seriguela">INGREDIENTES\n\n10 Dez Seriguelas.\n\n2 Duas Colheres (sopa) de açúcar.\n\nUma dose de cachaça.\n\nGelo picado.</string>
+    <string name="ingredientes_lichia">INGREDIENTES\n\n4 lichias em conserva\n\n1 dose de vodca (50 ml)\n\n30 ml de elixir de rosas\n\n1 colher de açúcar</string>
+    <string name="ingredientes_laranja">INGREDIENTES\n\n1 laranja pera\n\n2 colheres de chá de açúcar refinado\n\n6 pedras de gelo\n\n1 dose de pinga ou vodka</string>
+    <string name="fazer_laranja">1 - Em uma coqueleteira pique a laranja.\n\n2 - Com um socador amasse a laranja com o açucar e misture a pinga ou vodka e coloque o gelo, misture bem.\n\n3 - Coloque em um copo e sirva.\n\n4 - Beba com moderação.</string>
+    <string name="ingredientes_morango">INGREDIENTES\n\n5 morangos\n\n1 dose de vodka\n\n1 colher de açúcar\n\nGelo</string>
+    <string name="fazer_morango">1 - Bater dois morangos com um pouco de vodka no liquidificador.\n\n2 - Depois, cortar o restante dos morangos em pedacinhos pequenos.\n\n3 - Em um copo, misturar os morangos cortados com o suco que foi batido.\n\n4 - Acrescentar o açúcar e a vodka.</string>
+    <string name="ingredientes_manga">INGREDIENTES\n\n1/2 manga madura\n\n2 colheres sopa açúcar (se a manga for doce, use menos)\n\n100 ml vodka de sua preferência\n\n  Gelo a gosto\n\n Quanto baste água gelada</string>
+    <string name="fazer_manga">1 - Descasque a manga e pique em cubinhos.\n\n2 - Em uma coqueteleira coloque os cubinhos de manga até a metade, adicione o açúcar e macere bem.\n\n3 - Acrescente a vodka e agite bem até ficar bem cremosa. Despeje num copo, acrescente o gelo, complete com água, misture bem e decore como quiser. Fica muito boa!</string>
+    <string name="ingredientes_uva">INGREDIENTES\n\n1 cacho de uvas Niagara\n\nVodka\n\n3 colheres de açúcar (colher de bar)\n\nMuito gelo</string>
+    <string name="fazer_uva">1 - Em uma coqueteleira coloque as uvas o açúcar e soque (usando um socador tradicional).\n\n2 - Complete com gelo e em seguida a vodka (conte devagar até 10 ou menos ou mais, conforme o gosto).\n\n3 - Agite bem e sirva em um copo de caipirinha com algumas pedras de gelo.</string>
+    <string name="ingredientes_abacaxi">INGREDIENTES\n\n2 abacaxis maduro e doces\n\n1 litro de vodka\n\nAçúcar\n\nGelo</string>
+    <string name="fazer_abacaxi">1 - Descasque um dos dois abacaxis e corte em cubinhos.\n\n2 - No liquidificador coloque metade dos cubinhos de abacaxi, 1 copo de vodka (200 ml), 1/2 litro de água e 1 e 1/2 xícaras de açúcar.\n\n3 - Bata bem e se possível passe o liquido em uma peneira.\n\n4 - Com o outro abacaxi , corte o miolo sem abri-lo, para isso tire a tampinha do abacaxi e com uma colher tire o miolo.\n\n5 - Coloque então um o gelo em cubo o restante dos cubos do abacaxi.\n\n6 - Encha seu abacaxi sempre que acabar a bebida dentro.</string>
+    <string name="ingredientes_pessego">INGREDIENTES\n\n1 pêssego sem pele e sem caroço\n\n1 dose de cachaça ou vodka\n\n2 colheres de açúcar\n\ngelo\n\nhortelã</string>
+    <string name="fazer_pessego">1 - Descasque e macere o pêssego.\n\n2 - Coloque a cachaça ou vodka.\n\n3 - Acrescente o açúcar.\n\n4 - Misture bem todos os ingredientes.\n\n5 - Adicione o gelo.\n\n6 - Decore com folhas de hortelã.</string>
+    <string name="ingredientes_melancia">100 mililitros de cachaça\n\n1 xícara de melancia em cubos sem sementes\n\n2 unidades de lima\n\n2 colheres de sopa de açúcar\n\ngelo picado</string>
+    <string name="fazer_melancia">1 - Para preparar esta receita de caipirinha refrescante, o primeiro passo é cortar as extremidades dos limões, depois cortar em quatro e retirar a parte branca ao centro.\n\n2 - Distribua a melancia e o limão por dois copos, acrescente o açúcar e esmague com um socador.\n\nDica: Ajuste a quantidade de açúcar ao seu gosto.\n\n3 - Acrescente o gelo picado e a cachaça, e misture com a ajuda de uma colher. Complete a caipirinha de melancia com um canudinho e sirva geladinha. Divirta-se!</string>
+    <string name="ingredientes_goiaba">INGREDIENTES\n\n2 doses (100 ml) de cachaça\n\n2 colheres de açúcar\n\n2 limões (1 Caldo/ amassado)\n\n1 goiaba vermelha – tamanho médio ou grande\n\nGelo a gosto</string>
+    <string name="fazer_goiaba">1 - Bata no liquidificador a goiaba, com 50 ml de cachaça, 1 limão espremido (só o caldo), 1 colher de açúcar e, se desejar, algumas pedras de gelo também para a mistura ficar bem cremosa. Da primeira vez que fiz não peneirei e achei meio ruim ter que ficar tirando as sementes quebradas, desde então, sempre passo pela peneira. Reserve este creme de goiaba.\n\n2 - Daí, no copo onde servirá a caipirinha com goiaba, amasse 1 limão do jeito que é feito na caipirinha original – tirando um pouco da casca, o miolo branco, cortado em 4 partes, daí acrescente 1 colher de açúcar e amasse. Lembrando que a polpa do limão é recomendável que fique virada para cima porque daí não espreme tanto a casca e evita de amargar.\n\n
+        3 - Acrescente 1 dose de cachaça (50 ml) e mexa bem para misturar todos os ingredientes desta base. Assim que acabar de amassar o limão da base, já pode acrescentar o tanto de gelo que desejar.\n\n4 - Após o gelo, coloque no copo a mistura que bateu feita com a goiaba e não mexa mais para que o conteúdo fique bifásico (verde na base e vermelho na parte de cima). É legal deixar para quem for beber mexer porque fica lindo o visual.</string>
+
+
+    <string name="ingredientes_coquitel_veracruz">INGREDIENTES\n\n1 abacaxi verde de tamanho médio\n\n21 medida de suco de laranja\n\n½ medida de suco de abacaxi\n\n1 medida de Vodka da sua preferência\n\n1 colher de café de molho de pimenta tipo Tabasco\n\n1 ramo de aipo\n\nLimão\n\nSal.</string>
+    <string name="fazer_coquitel_veracruz">1 - Meça 3 dedos antes de cortar a coroa da fruta e tire essa parte\n\n2 - Com a parte restante (ou seja, o "corpo" do abacaxi) você vai criar o copo do drink. Para isso retire a polpa interior da fruta, com cuidado para não quebrar a casca, e reserve ela (pode manter um pouco da fruta no interior do abacaxi)\n\n3 - Coloque sal em toda a borda do abacaxi e seu copo de abacaxi está pronto\n\n4 - Dentro do copo de abacaxi coloque o suco de laranja, o suco de abacaxi, a vodka e o molho de pimenta\n\n5 - Misture todos os ingredientes com o ramo de aipo e está pronto para provar!\n\n\nConselhos: Utilize a polpa retirada do abacaxi para fazer o suco de abacaxi, batendo ela com água. Caso seja necessário, use mais um abacaxi para completar o suco.</string>
+
+
+    <string name="ingredientes_vodka_morango">INGREDIENTES\n\n45 ml de vodka\n\n45 ml de rom branco\n\n45 ml de licor de morango\n\n15 ml de suco de limão\n\n½ colher de chá de granadina\n\n1 morango</string>
+    <string name="fazer_coquitel_vodk_morango">Misture todos os ingrediente líquidos na coqueteleira, adicione gelo e bata muito. Sirva em um copo de coquetel do seu agrado e decore com o morango.</string>
+
+
+    <string name="ingredientes_vodk_melancia">INGREDIETNES\n\n1 refrigerante de limão\n\n1 limão\n\n1 melancia média (sem sementes)\n\n300 ml de vodka\n\n½ envelope de suco em pó de morango</string>
+    <string name="fazer_coquitel_vodk_melancia">1 - Corte fora um dos topos da melancia, para que ela fique mais estável na mesa;\n\n2 - Do lado oposto corte uma "tampa" da melancia e comece retirando um pouco da polpa com a ajuda de uma colher. Reserve para usar como decoração;\n\n3 - Triture o restante da polpa de melancia com um mixer diretamente dentro dela (faça com cuidado, para não danificar a casca da fruta);\n\n4 - Quando o centro da melancia já estiver líquido, adicione o refrigerante de limão, o suco de limão, a vodka e o suco em pó;\n\n5 - Misture bem ou volte a triturar com o mixer e reserve na geladeira até à hora de servir.\n\n\n\nConselhos: Tome cuidado ao manusear a melancia porque ela será o copo do seu coquetel. Lembre-se que você pode mudar as quantidades de cada ingredientes de acordo com o seu gosto.</string>
+
+
+    <string name="ingredientes_vodka_sorvete">INGREDIENTES\n\n1/2 Kilo de Sorvete de creme\n\n1 Vodka Orloff (gelada)\n\n2 Bandejas de Morango (frescos)\n\nCanudinhos de Plástico (para servir)\n\nAçúcar refinado (á gosto)</string>
+    <string name="fazer_coquitel_vodk_sorvete">1 - Bata no liquidificador o sorvete, a vodka, os morangos até formar um creme uniforme, prove e acrescente açucar refinado até dar o ponto do doce desejado.\n\n2 - Sirva em taças acompanhado de canudinho.</string>
+
+
+    <string name="ingredientes_espresso_martini">INGREDIENTES\n\n1 expresso em temperatura ambiente 3 Corações (ou Santa Clara)\n\n1 dose de vodka\n\n½ dose de licor de café\n\nTangerina e melissa para enfeitar\n\nCubos de gelo</string>
+    <string name="fazer_espresso_martini">Misture todos os ingredientes num misturador de drinks (ou coqueteleira) e sirva com duas pedras de gelo.</string>
+
+    <string name="ingredientes_vesper_martini">INGREDIENTES\n\n3 doses de Gin\n\n1 dose de vodka\n\n1/2 dose de vermute extra seco\n\n1 casca de limão siciliano</string>
+    <string name="fazer_coquitel_vesper_martini">1 - Bata o Gin, Vodka e Vermute em uma coqueteleira com algumas pedras de gelo até resfriar a bebida\n\n2 - Sirva em uma taça de martini previamente resfriada, sem o gelo\n\n3 - Decore com uma tira da casca de limão\n\n\n\n\nCuriosidade: Bebida pedida por James Bond no livro e filme Cassino Royale.</string>
+
+
+    <string name="ingredientes_cosmopolitan">INGREDIENTES\n\n4 doses de Vodka\n\n1 dose e 1/2 de Cointreau\n\n1 dose e 1/2 de suco de limão(espremido na hora e coado)\n\n3 doses de suco Cranberry(pode ser o de caixinha)</string>
+    <string name="fazer_coquitel_cosmopolitan">1 - Adicione todos os ingredientes numa coqueteleira com pequenas pedras de gelo\n\n2 - Sacuda bem e sirva no copo de cocktail (tipo martini) e se desejar, pode decorar com um fatia de limão ou com cerejas.\n\n\n3 -  Em um coloquei uma cereja e no outro não, mas garanto que fica gostoso dos dois jeitos, caso não tenham cerejas em casa.\n\n\nDICA : Na hora de servir, cuidado para o gelo não cair no copo, pois esse drink é para ser servido sem o gelo. Eu nem usei gelo porque a vodka já estava bem gelada. Essa receita rende dois drinks, e neste caso será um para mim e outro para vocês, é claro!! 🙂 🙂</string>
+
+    <string name="ingredientes_vodka_pessego">INGREDIENTES\n\n1 lata de pêssego em calda\n\n1 caixa de leite condensado (395 g)\n\n1 garrafa de vinho espumante (pode ser champanhe, frisante, prosecco, etc…)</string>
+    <string name="fazer_coquitel_vodka_pessego">1 - Retire a calda do pêssego e reserve.\n\n2 - Coloque os pêssegos sem a calda, o leite condensado e o espumante no liquidificador e bata bem.\n\n3 - Experimente, se o espumante não for muito doce, acrescente um pouco da calda dos pêssegos para adoçar um pouco e bata novamente.\n\n4 - Sirva bem gelado.\n\n\n\n\nDicas :Deixe todos os ingredientes bem gelados, fica muito mais gostoso.\n\nSe quiser pode fazer com cidra que é mais barata, também fica bom, eu já fiz.\n\nSe quiser reservar uma metade de pêssego e cortar em fatias para enfeitar os copos fica muito bonito.\n\nOu enfeite a borda do copo com uma cereja em calda, também fia bonito.\n\nSirva imediatamente, por causa do espumante ou do refrigerante.</string>
+
+
+    <string name="ingredientes_moscow_mule">INGREDIENTES\n\n2 partes de vodka\n\n1 parte de suco de limão\n\n1 pedaço de limão para decorar\n\nRefrigerante de limão\n\nGelo</string>
+    <string name="fazer_coquitel_vodka_moscou_mule">Pegue um copo ou caneca e encha de gelo. Coloque a vodka e o suco de limão, complete com o refrigerante e decore com o limão.</string>
+
+    <string name="ingredientes_frozen_original">INGREDIENTES\n\n2 latas de Skol Beats Senses\n\nsuco de 2 limões\n\n1 caixa de leite condensado\n\ngelo a gosto</string>
+    <string name="fazer_coquitel_frozen_original">1 - No liquidificador, bata todos os ingredientes.\n\n2 - Sirva em seguida.\n\n3 - Rende 2 drinks.</string>
+
+
+    <string name="ingredientes_dirty_martini">INGREDIENTES\n\n150 mL de gin\n\n25 mL de vermute\n\nGelo\n\n4-6 azeitonas verdes sem caroço + 25 mL de salmoura</string>
+    <string name="fazer_coquitel_dirty_martini">1 - Coloque duas taças Martini no refrigerador para gelar.\n\n2 -  Coloque as azeitonas em dois palitos e reserve.\n\n3 - Encha uma jarra com gelo e despeje o gin, o vermute e a salmoura de azeitona.\n\n4 -  Mexa até que a parte externa da jarra resfrie. Coe a mistura, deposite nas taças e decore com os espetos de azeitona.\n\n\n\n\nHARMONIZAÇÃO
+Invista em entradas e aperitivos para combinar com o seu Dirty Martini!</string>
+</resources>

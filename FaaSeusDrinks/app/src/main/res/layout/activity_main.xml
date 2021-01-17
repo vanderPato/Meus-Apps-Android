@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:background="@color/tema_principal"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+<!--    <LinearLayout-->
+<!--        android:padding="15dp"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content">-->
+
+
+
+<!--        <Button-->
+<!--            android:onClick="coquiteis_sem_vodk"-->
+<!--            android:layout_marginRight="10dp"-->
+<!--            android:layout_weight="2"-->
+<!--            android:text="@string/drinks"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="80dp"/>-->
+
+
+
+
+<!--        <Button-->
+<!--            android:layout_marginRight="10dp"-->
+<!--            android:layout_weight="2"-->
+<!--            android:text="Sucos"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="80dp"/>-->
+
+
+
+<!--    </LinearLayout>-->
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:layout_alignParentRight="true"
+        android:layout_width="100px"
+        android:layout_height="100px"
+        android:background="@mipmap/proibido"/>
+
+
+</RelativeLayout>
+    <LinearLayout
+        android:padding="15dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+        <Button
+            android:textStyle="italic|bold"
+            android:textColor="#FFFFFF"
+            android:background="@color/pretomas_claro"
+            android:onClick="caipirinha"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:text="@string/caipirinhas"
+            android:layout_width="0dp"
+            android:layout_height="150dp"/>
+
+
+
+
+        <Button
+            android:textStyle="italic|bold"
+            android:textColor="#FFFFFF"
+            android:background="@color/verde_limao_claro"
+            android:onClick="coquiteis_vodk"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:text="@string/coquiteis"
+            android:layout_width="0dp"
+            android:layout_height="150dp"/>
+
+
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-9660995303494537/6473692245">
+        </com.google.android.gms.ads.AdView>
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>
