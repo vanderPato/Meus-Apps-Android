@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:background="@mipmap/fundo_game"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+
+
+        <ImageView
+            android:id="@+id/meteoro_caindo1"
+            android:background="#FFFFFF"
+            android:layout_width="2dp"
+            android:layout_height="50dp"/>
+
+
+
+        <ImageView
+            android:id="@+id/meteoro_caindo2"
+            android:background="#FFFFFF"
+            android:layout_width="2dp"
+            android:layout_height="50dp"/>
+
+
+
+
+        <ImageView
+            android:id="@+id/meteoro_caindo3"
+            android:background="#FFFFFF"
+            android:layout_width="2dp"
+            android:layout_height="50dp"/>
+
+
+
+
+        <ImageView
+            android:id="@+id/meteoro_caindo4"
+            android:background="#FFFFFF"
+            android:layout_width="2dp"
+            android:layout_height="50dp"/>
+
+
+
+
+
+        <ImageButton
+            android:id="@+id/figura1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:id="@+id/tx_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ola"
+            android:textSize="24sp"
+            />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+
+        <ImageButton
+            android:id="@+id/figura2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+
+            android:id="@+id/tx_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+        <ImageButton
+            android:id="@+id/figura3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+
+            android:id="@+id/tx_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+
+        <ImageButton
+            android:id="@+id/figura4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+
+        <ImageButton
+            android:id="@+id/figura5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+
+        <ImageButton
+            android:id="@+id/figura6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+
+        <ImageButton
+            android:id="@+id/figura7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textSize="24sp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/tx_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+
+        <ImageButton
+            android:id="@+id/figura8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+
+        <ImageButton
+            android:id="@+id/figura9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <ImageButton
+            android:id="@+id/figura10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:id="@+id/tx11"
+            android:textColor="#040000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <ImageButton
+            android:id="@+id/figura11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <ImageButton
+            android:id="@+id/figura12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <ImageButton
+            android:id="@+id/figura13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:id="@+id/tx14"
+            android:textColor="#040000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <ImageButton
+            android:id="@+id/figura14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:id="@+id/tx15"
+            android:textColor="#040000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <ImageButton
+            android:id="@+id/figura15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <ImageButton
+            android:id="@+id/figura16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:id="@+id/tx_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <TextView
+            android:textColor="#040000"
+            android:id="@+id/tx17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        />
+
+
+
+
+
+
+        <TextView
+            android:layout_margin="16dp"
+            android:textStyle="bold"
+            android:id="@+id/painel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="mostrando"
+            android:textColor="#4CAF50"
+            android:textSize="25dp" />
+
+
+
+
+        <ImageView
+            android:id="@+id/vida"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            />
+
+
+
+        <TextView
+            android:layout_marginBottom="50dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/painel_fim_game"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/restart"
+            android:text="mostrando"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_marginBottom="20dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/painel_fim_game1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/restart"
+            android:text="mostrando"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/restart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@mipmap/botao"
+            android:onClick="restart"
+            android:text="restart"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+
+        <!--    <Button-->
+        <!--        android:id="@+id/restart1"-->
+        <!--        android:layout_width="wrap_content"-->
+        <!--        android:layout_height="wrap_content"-->
+        <!--        android:onClick="restart"-->
+        <!--        android:text="restart"-->
+        <!--        />-->
+
+
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-9660995303494537/4468595648">
+        </com.google.android.gms.ads.AdView>
+
+
+
+
+
+</RelativeLayout>
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@mipmap/logo_do_inicio"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+
+    <Button
+        android:onClick="te_in"
+        android:id="@+id/te_inicio"
+        android:textColor="#FFFDFD"
+        android:background="@mipmap/botao"
+        android:textSize="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="olá mundo\n\n Iniciar o jogo"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"/>
+
+
+<!--    <RelativeLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content">-->
+<!--        <TextView-->
+<!--            android:text="Sua pontuação aparecera aqui"-->
+<!--            android:id="@+id/nome_lsta"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:padding="10dp" />-->
+
+
+<!--        <Button-->
+<!--            android:id="@+id/deletar"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentRight="true"-->
+<!--            android:background="@android:drawable/ic_delete"-->
+<!--            android:onClick="deletar" />-->
+
+<!--    </RelativeLayout>-->
+
+
+    <TextView
+        android:textColor="#E6E3E3"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@id/te_inicio"
+        android:layout_marginBottom="-27dp"
+        android:text="Lista de pontos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ImageButton
+        android:textStyle="bold"
+        android:background="@drawable/listagem_ic"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/te_inicio"
+        android:layout_marginBottom="-67dp"
+        android:onClick="lista_pontos"
+        android:text="pontuacao" />
+
+
+</RelativeLayout>

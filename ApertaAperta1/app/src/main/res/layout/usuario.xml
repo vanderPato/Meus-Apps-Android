@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+
+    <RelativeLayout
+        android:background="#5CA59898"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:textSize="30dp"
+        android:textColor="#FDD301"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/nome_lsta"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+    <ImageButton
+        android:id="@+id/deletar"
+        android:background="@drawable/ic_baseline_delete_forever_24"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="deletar" />
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>
