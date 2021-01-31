@@ -6,6 +6,8 @@
 
 - **Animal**, *explore os códigos e veja como funciona* 
 
+- **BugCat**, *Uma variação aprimorada de* **animal**
+
   ### fique de olho que logo terá mais.
 
   
