@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/relative_ara"
+
+    android:layout_height="match_parent"
+    tools:context=".Class_aranha">
+
+
+
+
+
+
+    <RelativeLayout
+        android:id="@+id/aranha_rainha"
+        android:layout_width="150dp"
+        android:layout_height="150dp">
+
+        <ImageView
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/aranha_play"
+            android:background="@mipmap/aranha_3"
+            android:layout_width="150dp"
+            android:layout_height="150dp"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
